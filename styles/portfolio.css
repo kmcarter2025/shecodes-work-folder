@@ -24,40 +24,7 @@ h6 {
   font-weight: bold;
 }
 
-h1 {
-font-size: 96px;
-line-height: 1.5;
-}
 
-h2 {
-font-size:64px ;
-}
-
-p {
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 30px;
-}
-
-.hero {
-  background: var(--secondary-color);
-  text-align: center;
-  padding: 160px 20;
-}
-
-.hero p {
-  font-size: 36px;
-  font-weight: bold;
-  margin: 0;
-  color: #272142;
-}
-
-.hero h2 {
-  font-family: var(--heading-font-family);
-  font-weight: normal;
-  line-height: 2;
-  font-size: 24px;
-}
 
 .btn-branding {
   background: var(--branding-color);
